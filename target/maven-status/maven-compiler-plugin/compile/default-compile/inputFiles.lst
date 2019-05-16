@@ -1,0 +1,8 @@
+/home/user/javaProjects/testMavenApp/my-app/src/main/java/com/mycompany/app/App.java
+/home/user/javaProjects/testMavenApp/my-app/src/main/java/com/mycompany/app/CustomPartitioner.java
+/home/user/javaProjects/testMavenApp/my-app/src/main/java/com/mycompany/app/ProducerCreator.java
+/home/user/javaProjects/testMavenApp/my-app/src/main/java/com/mycompany/app/CustomObject.java
+/home/user/javaProjects/testMavenApp/my-app/src/main/java/com/mycompany/app/IKafkaConstants.java
+/home/user/javaProjects/testMavenApp/my-app/src/main/java/com/mycompany/app/CustomSerializer.java
+/home/user/javaProjects/testMavenApp/my-app/src/main/java/com/mycompany/app/CustomObjectDeserializer.java
+/home/user/javaProjects/testMavenApp/my-app/src/main/java/com/mycompany/app/ConsumerCreator.java
